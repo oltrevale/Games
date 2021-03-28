@@ -28,7 +28,7 @@
 - [ ] Slay the Spire
 - [ ] Cup Head
 - [ ] Dead Cells
-
+- [ ] Katana zero
 # Aspettare Controller migliore
 
 - [ ] Dark Souls
