@@ -14,6 +14,10 @@
 - [ ] Batman
 - [ ] Fez
 - [ ] The Messanger
+- [ ] Darksest Dungeon
+- [ ] DarkSider
+- [ ] Limbo
+- [ ] Ryman legends
 
 # Steam
 
