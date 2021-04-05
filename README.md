@@ -9,7 +9,7 @@
 # Epic Game Store
 
 - [ ] Celeste
-- [ ] Alan Wake
+- [x] Alan Wake
 - [ ] Abzu
 - [ ] Batman
 - [ ] Fez
@@ -17,13 +17,16 @@
 - [ ] Darksest Dungeon
 - [ ] DarkSider
 - [ ] Limbo
-- [ ] Ryman legends
+
 
 # Steam
 
 - [ ] Hollow Knights
 - [ ] Hades (posseduto)
 - [ ] Baba is Your
+- [ ] Skyrim
+- [ ] Dark Souls Remastered
+- [ ] Dars Souls 2
 
 # Giochi da Aspettare Update o DLC
 - [ ] Hollow Knights SkillSong
@@ -33,9 +36,6 @@
 - [ ] Cup Head
 - [ ] Dead Cells
 - [ ] Katana zero
-# Aspettare Controller migliore
-
-- [ ] Dark Souls
 
 # Giochi a cui serve HW migliore
 
