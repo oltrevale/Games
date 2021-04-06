@@ -11,6 +11,7 @@
 - [ ] Darksest Dungeon
 - [ ] DarkSider
 - [ ] Limbo
+- [ ] Oddworld: New 'n' Tasty
 
 # WII U
 
