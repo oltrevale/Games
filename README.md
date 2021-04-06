@@ -21,7 +21,6 @@
 # Steam
 
 - [ ] Hollow Knights
-- [ ] Hades (posseduto)
 - [ ] Baba is Your
 - [ ] Skyrim
 - [ ] Dark Souls Remastered
