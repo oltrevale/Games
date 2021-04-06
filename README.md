@@ -1,9 +1,11 @@
 # Epic Game Store
 
-- [ ] Celeste
 - [x] Alan Wake
+- [ ] Celeste
 - [ ] Abzu
-- [ ] Batman
+- [ ] Batman Arkham Asylum
+- [ ] Batman Arkham City
+- [ ]  Batman Arkham Knight
 - [ ] Fez
 - [ ] The Messanger
 - [ ] Darksest Dungeon
