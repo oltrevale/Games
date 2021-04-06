@@ -12,6 +12,7 @@
 - [ ] DarkSider
 - [ ] Limbo
 - [ ] Oddworld: New 'n' Tasty
+- [ ] Rime
 
 # WII U
 
