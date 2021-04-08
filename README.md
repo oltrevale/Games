@@ -46,4 +46,5 @@
 - [ ] Control
 - [ ] Ori and the Will of Wisp
 - [ ] Control
+- [ ] Dark Souls 3
 
