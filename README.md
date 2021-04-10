@@ -28,7 +28,7 @@
 - [ ] Baba is Your
 - [ ] Skyrim
 - [ ] Dark Souls Remastered
-- [ ] Dars Souls 2
+- [ ] Dars Souls 2 (posseduto)
 
 # Giochi da Aspettare Update o DLC
 
