@@ -47,6 +47,6 @@
 - [ ] Ori and the Will of Wisp
 - [ ] Control
 - [ ] Dark Souls 3
-- [ ] Sekiro
+- [ ] Sekiro + [Mod](https://www.nexusmods.com/sekiro/mods/723)
 - [ ] Star Wars
 
